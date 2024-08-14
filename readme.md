@@ -11,9 +11,6 @@
 演示地址：[https://love.gitapp.cn](https://love.gitapp.cn)
 
 
-## 源码下载
-
-https://github.com/geeeeeeeek/java_love
 
 
 ## 主要功能
