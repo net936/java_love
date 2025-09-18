@@ -11,6 +11,9 @@
 演示地址：[https://love.gitapp.cn](https://love.gitapp.cn)
 
 
+## 视频讲解
+
+[https://youtu.be/MFbwCqHocqQ?si=SrMgGUjApyt71Yds](https://youtu.be/MFbwCqHocqQ?si=SrMgGUjApyt71Yds)
 
 
 ## 主要功能
@@ -106,6 +109,9 @@ npm run dev
 
 [点击进入](doc/doc.md)
 
+## 视频讲解
+
+[https://youtu.be/MFbwCqHocqQ?si=SrMgGUjApyt71Yds](https://youtu.be/MFbwCqHocqQ?si=SrMgGUjApyt71Yds)
 
 ## 付费咨询
 
